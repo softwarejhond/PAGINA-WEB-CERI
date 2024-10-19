@@ -54,8 +54,18 @@
                                 <a href="contact"><i class="fas fa-map-marker-alt"></i>Contacto</a>
                             </li>
                             <li>
-                                <a href="https://cpanel.cerifundacion.com/index.php" target="_blank"><i class="fas fa-user-tie"></i>Login</a>
+                                <a href="#0"><i class="fas fa-user-tie"></i>Login</a>
+                                <ul class="submenu">
+                                    <li>
+                                    <a href="https://cpanel.cerifundacion.com/index.php" target="_blank"><i class="fas right-to-bracket"></i>Login</a>
                                
+                                    </li>
+                                    <li>
+                                    <a href="https://check-in.cerifundacion.com/" target="_blank"><i class="fas right-to-bracket"></i>Login Check-In</a>
+        
+                                    </li>
+                                  
+                                </ul>
                             </li>
                         </ul>
                         <!--<div class="cart-button">
