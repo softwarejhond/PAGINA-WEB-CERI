@@ -21,7 +21,7 @@
                             </li>
 
                             <li>
-                                <a href="https://www.instagram.com/cerifundacion/" class="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/ceri_oficial/" class="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
                             </li>
                             <li>
                                 <a href="https://api.whatsapp.com/send/?phone=573122235788&text&type=phone_number&app_absent=0" class="whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
@@ -35,7 +35,7 @@
                         <ul class="footer-blog">
                             <li>
                                 <div class="content">
-                                    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/cerifundacion/" data-instgrm-version="13"></blockquote>
+                                    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/ceri_oficial/" data-instgrm-version="13"></blockquote>
 
 
                                     <!-- Script para cargar el widget de Instagram -->

@@ -22,10 +22,10 @@
                                         <a href="swimming">Programa de natación</a>
                                     </li>
                                     <li>
-                                        <a href="error-page.html">Programa de hidroterapia</a>
+                                        <a href="hydrotherapy">Programa de hidroterapia</a>
                                     </li>
                                     <li>
-                                        <a href="error-page.html">Programa de bienestar</a>
+                                        <a href="welfare">Programa de bienestar</a>
                                     </li>
                                     <li>
                                         <a href="therapy">Programa de terapia especializada</a>
