@@ -14,13 +14,13 @@
                     </ul>
                     <ul class="social-icons">
                         <li>
-                            <a href="https://www.facebook.com/fundacion.ceri/" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                            <a href="https://api.whatsapp.com/send/?phone=573122235788&text&type=phone_number&app_absent=0" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
                         </li>
                         <li>
                             <a href="https://www.facebook.com/fundacion.ceri/" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/cerifundacion/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/ceri_oficial/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
                         </li>
                         <li>
                             <a href="https://www.waze.com/en/live-map/directions/co/antioquia/fundacion-ceri-centro-acuatico-de-rehabilitacion-integral?place=ChIJJYryzlefRo4RxVh9nfJKAGA" target="_blank" title="Navegar con Waze"><i class="fab fa-waze"></i></a>
